@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi, Im Vinicius Lima  👋
+### I'm a developer fullstack, using JS, ReactJS, ReactNative and NodeJS. And Working in [Seven Tech](http://7technologies.com.br/).
 <!--
 **VinnyLima/VinnyLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
