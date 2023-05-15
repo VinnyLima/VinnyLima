@@ -18,7 +18,7 @@
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
   <img align="center" alt="Vinny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
-  <img align="center" alt="Vinny-Python" height="30" width="40" src="  https://www.rabbitmq.com/img/logo-rabbitmq.svg"> </a>   
+  <img align="center" alt="Vinny-Python" height="30" width="40" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"></a>   
 
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
   <img align="center" alt="Vinny-Python" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"> </a>  
@@ -26,8 +26,10 @@
 </div>
 
 <h2 style="text-align: center;">GitHub Analytics</h2>
+
 ![Vinny Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=VinnyLima&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyLima&show_icons=true&theme=dark)](https://github.com/VinnyLima/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyLima&show_icons=true&theme=dark)
 
 
 ##  About me:
