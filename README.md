@@ -1,7 +1,7 @@
 ## Hi, Im Vinícius Lima  👋
 ### I am a fullstack developer these are my main technologies...
 
-<div style="display: flex; justify-content: space-between; align-items:center;">  
+<div style="display: flex; justify-content: space-between; align-items:center; width: 100%;">  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"><img align="center" alt="Vinny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;">
   <img align="center" alt="Vinny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
@@ -13,7 +13,7 @@
   <img align="center" alt="Vinny-Nest" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" /></a>  
   </div>
 
-<div style="display: flex; justify-content: space-between; align-items:center; margin-top:20px;">
+<div style="display: flex; justify-content: space-between; align-items:center; margin-top:20px; width: 100%;">
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;">               
   <img align="center" alt="Vinny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
