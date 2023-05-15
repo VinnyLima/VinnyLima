@@ -10,8 +10,11 @@
   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;">
   <img align="center" alt="Vinny-Next" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
-  <img align="center" alt="Vinny-Nest" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />  </a> 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;">               
+  <img align="center" alt="Vinny-Nest" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" /></a>  
+  </div>
+
+<div style="display: flex; justify-content: space-between; align-items:center; margin-top:20px;">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;">               
   <img align="center" alt="Vinny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
   <img align="center" alt="Vinny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
@@ -21,8 +24,7 @@
   <img align="center" alt="Vinny-Python" height="30" width="40" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"></a>   
 
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
-  <img align="center" alt="Vinny-Python" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"> </a>  
-  
+  <img align="center" alt="Vinny-Python" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"> </a>
 </div>
 
 <h2 style="text-align: center;">GitHub Analytics</h2>
