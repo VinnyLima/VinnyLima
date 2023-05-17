@@ -39,11 +39,14 @@
 
 
 <h2 align="center">Languages</h2>
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![Python](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
+
+</div>
 
 <h2 align="center">Frameworks, library's and Platforms</h2>
 
