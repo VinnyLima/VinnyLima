@@ -49,6 +49,7 @@
 </div>
 
 <h2 align="center">Frameworks, library's and Platforms</h2>
+<div align="center">
 
 ![React](https://img.shields.io/badge/-React-05122A?logo=react&style=for-the-badge)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=for-the-badge)&nbsp;
@@ -56,24 +57,35 @@
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs)&nbsp;
 ![Jest.js](https://img.shields.io/badge/-Jest.js-C21325?style=for-the-badge&logo=jest)&nbsp;
 
+</div>
+
 <h2 align="center">DataBases</h2>
+<div align="center">
 
 ![oracle](https://img.shields.io/badge/-Oracle_PLSQL-F80000?style=for-the-badge&logo=oracle)&nbsp;
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=000)&nbsp;
 ![Postgres](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)&nbsp;
 ![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)&nbsp;
 
+</div>
+
 <h2 align="center">Servers</h2>
+<div align="center">
 
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff) &nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)&nbsp;
 ![RabbitMq](https://img.shields.io/badge/RabbitMQ-05122A?logo=rabbitmq&style=for-the-badge)&nbsp;
 
+</div>
+
 <h2 align="center">Others</h2>
+<div align="center">
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+</div>
 
 
 
