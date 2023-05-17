@@ -37,15 +37,34 @@
 
 <h2 style="text-align: center;">💻 Tech Stack 🖱️</h2>
 
+
 <h2 style="text-align: center;">Languages</h2>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
 
 <h2 style="text-align: center;">Frameworks, library's and Platforms</h2>
-
+![React](https://img.shields.io/badge/-React-05122A?logo=react&style=for-the-badge)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=for-the-badge)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs)&nbsp;
+![Jest.js](https://img.shields.io/badge/-Jest.js-C21325?style=for-the-badge&logo=jest)&nbsp;
 <h2 style="text-align: center;">DataBases</h2>
+![oracle](https://img.shields.io/badge/-Oracle_PLSQL-F80000?style=for-the-badge&logo=oracle)&nbsp;
+![Postgres](https://img.shields.io/badge/-PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=000)&nbsp;
+![Postgres](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)&nbsp;
 
 <h2 style="text-align: center;">Servers</h2>
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff) &nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)&nbsp;
+![RabbitMq](https://img.shields.io/badge/RabbitMQ-05122A?logo=rabbitmq&style=for-the-badge)&nbsp;
 
 <h2 style="text-align: center;">Others</h2>
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 
 
