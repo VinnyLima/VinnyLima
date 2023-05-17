@@ -1,38 +1,28 @@
 ## Hi, Im Vinícius Lima  👋
 ### I am a fullstack developer these are my main technologies...
 
-<div style="display: flex; justify-content: space-between; align-items:center; width: 100%;">  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"><img align="center" alt="Vinny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;">
-  <img align="center" alt="Vinny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;">
-  <img align="center" alt="Vinny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;">
-  <img align="center" alt="Vinny-Next" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
-  <img align="center" alt="Vinny-Nest" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" /></a>  
-  </div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?logo=react&style=for-the-badge)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-05122A?logo=nextdotjs&style=for-the-badge)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![RabbitMq](https://img.shields.io/badge/RabbitMQ-05122A?logo=rabbitmq&style=for-the-badge)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?logo=docker&style=for-the-badge)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<div style="display: flex; justify-content: space-between; align-items:center; margin-top:20px; width: 100%;">
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;">               
-  <img align="center" alt="Vinny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
-  <img align="center" alt="Vinny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
-  <img align="center" alt="Vinny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
-  <img align="center" alt="Vinny-Python" height="30" width="40" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"></a>   
 
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: crosshair;"> 
-  <img align="center" alt="Vinny-Python" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"> </a>
-</div>
+### ⚙️ &nbsp;GitHub Analytics
 
-<h2 style="text-align: center;">GitHub Analytics</h2>
-
-![Vinny Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=VinnyLima&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyLima&show_icons=true&theme=dark)
-
+<p align="center">
+<a href="https://github.com/VinnyLima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinnyLima&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyLima&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ##  About me:
 
