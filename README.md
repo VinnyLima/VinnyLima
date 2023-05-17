@@ -58,6 +58,7 @@
 ![oracle](https://img.shields.io/badge/-Oracle_PLSQL-F80000?style=for-the-badge&logo=oracle)&nbsp;
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=000)&nbsp;
 ![Postgres](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)&nbsp;
+![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)&nbsp;
 
 <h2 style="text-align: center;">Servers</h2>
 
@@ -75,8 +76,8 @@
 
 
 <div style="display: flex; flex-direction: column; justify-content: space-between; align-items:center;" > 
-<h3 style="text-align: center;">Social Medias</h3> 
-<div style="display: flex; justify-content: space-between; align-items:center; ">
+<h3 align="center">Social Medias</h3> 
+<div align="center">
     <a href="https://www.instagram.com/vinny_limadev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Vinicius Lima#8541" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pvinfol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
